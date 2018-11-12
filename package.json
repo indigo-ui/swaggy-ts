@@ -1,0 +1,14 @@
+{
+  "name": "swagger-ts-interface",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": "Audisho Sada <asada@indigo.ca>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "superagent": "3.8.3"
+  }
+}
